@@ -1,7 +1,8 @@
 import random
-
+import pytz
 
 name1 = 'Jagadeesh'
+print (pytz.all_timezones, '/n')
 
 
 
